@@ -1,5 +1,6 @@
 #TODO
 
+- [ ] Make the model more balanced
 - [ ] Add the symbiosis function
 - [x] Add all the necessary function to the jupyter file (to make it interactive)
 - [ ] Write the README overview
