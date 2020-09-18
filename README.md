@@ -44,3 +44,7 @@ And we are done. We have now set up the enviroment where we can view and edit th
  `jupyter notebook`
 
  Hopefully a window will open up with some files in it.Double click on *cell_simulation.ipynb* and the project should open.
+ 
+
+## Donations
+I'm currently a student, so if you would like to help me sustain my studies you can do it [here](https://liberapay.com/techmatt01/donate "here"). Thank you!
