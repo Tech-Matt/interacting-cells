@@ -1,6 +1,6 @@
 # Interacting-Cells
 
-![Liberapay giving](https://img.shields.io/liberapay/gives/techmatt01)
+![Liberapay patrons](https://img.shields.io/liberapay/patrons/techmatt01)
 
 ## Target
 This project aims to create a Jupyter interactive file to do simulations and in general, modelling and science about a simple biological model.
