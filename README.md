@@ -1,11 +1,6 @@
 # Interacting-Cells
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="PZ9B8LHJMPKYG" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-</form>
+![Liberapay patrons](https://img.shields.io/liberapay/patrons/techmatt01)
 
 ## Target
 This project aims to create a Jupyter interactive file to do simulations and in general, modelling and science about a simple biological model.
@@ -49,3 +44,7 @@ And we are done. We have now set up the enviroment where we can view and edit th
  `jupyter notebook`
 
  Hopefully a window will open up with some files in it.Double click on *cell_simulation.ipynb* and the project should open.
+ 
+
+## Donations
+I'm currently a student, so if you would like to help me sustain my studies you can do it [here](https://liberapay.com/techmatt01/donate "here"). Thank you!
