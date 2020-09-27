@@ -1,5 +1,6 @@
 # Interacting-Cells
 
+![Discord](https://img.shields.io/discord/738392561143513108?label=discord)
 ![Liberapay patrons](https://img.shields.io/liberapay/patrons/techmatt01)
 
 ## Target
